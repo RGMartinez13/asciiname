@@ -1,0 +1,17 @@
+#initials with ascii art 
+
+#Rafael Martinez
+#I use to want to be an astronaunt 
+
+name = """
+RRRR     M   M
+R   R    MM MM
+R   R    MM MM
+RRRR     M M M
+R R      M   M
+R  R     M   M
+R   R    M   M
+
+"""
+
+print(name)
